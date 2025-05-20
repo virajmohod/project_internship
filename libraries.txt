@@ -1,0 +1,7 @@
+npm install styled-components
+npm install axios
+npm install redux react-redux
+npm install react-router-dom
+npm install react-hook-form
+npm install react-icons
+npm install react-icons/md
